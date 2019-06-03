@@ -5,5 +5,5 @@ sudo python3 -m pip install --upgrade pip
 sudo python3 -m pip install jsonschema
 sudo python3 -m pip install jupyter
 sudo apt-get install -y python-seaborn python-pandas ttf-bitstream-vera python-matplotlib
-sudo ipython3 kernelspec install-self
+sudo ipython3 kernel install
 echo "Done Installing Jupyter"
