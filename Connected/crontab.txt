@@ -1,1 +1,0 @@
-* * * * * /usr/bin/python3 /home/pi/Code_at_TACC_Robotics/Connected/sensor_collector-csv.py >> /home/pi/Desktop/`/bin/hostname`-`/bin/date +\%Y\%m\%d`-sensorlog.csv 2>&1
