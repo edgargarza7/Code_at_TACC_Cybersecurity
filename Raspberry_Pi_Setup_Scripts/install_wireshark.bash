@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 sudo apt-get update
 echo wireshark-common wireshark-common/install-setuid boolean true | sudo /usr/bin/debconf-set-selections
 sudo apt-get install wireshark -y

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 /usr/bin/git clone https://github.com/edgargarza7/Code_at_TACC_Cybersecurity.git
 cd ./Code_at_TACC_Cybersecurity/Raspberry_Pi_Setup_Scripts
 SCRIPTS_FROM="$(pwd)"

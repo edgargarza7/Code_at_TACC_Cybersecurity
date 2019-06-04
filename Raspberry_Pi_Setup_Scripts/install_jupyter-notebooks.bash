@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 echo "This script will install Jupyter Notebooks and Python3 Kernel"
 sudo apt-get install -y python3-dev
 sudo python3 -m pip install --upgrade pip
