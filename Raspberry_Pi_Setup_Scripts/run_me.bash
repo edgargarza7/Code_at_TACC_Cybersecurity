@@ -30,5 +30,5 @@ echo "Installing mpack-tools for encoding-decoding MIME messages"
 sudo apt-get install mpack -y
 echo " "
 echo "All done!"
-echo "Later you should run "sudo apt-get upgrade -y;sudo apt-get update -y"
+echo "Later you should run ""sudo" " apt-get upgrade "" -y;"" sudo apt-get update -y""
 sleep 30
