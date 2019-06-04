@@ -7,15 +7,15 @@ echo "Starting Jupyter Notebooks and Requirements Install"
 echo " "
 $SCRIPTS_FROM/install_jupyter-notebooks.bash
 sleep 5
-$SCRIPTS_FROM/configure_jupyter-notebooks.bash
-echo "Starting Jupyter Service Install"
-$SCRIPTS_FROM/install_jupyter-service.bash
-sleep 5
+#$SCRIPTS_FROM/configure_jupyter-notebooks.bash
+#echo "Starting Jupyter Service Install"
+#$SCRIPTS_FROM/install_jupyter-service.bash
+#sleep 5
 echo "All done!"
 echo " "
-echo "You can test the Jupyter install by going to \"localhost:8888\" in your web browser"
-echo "The Default Password is pi"
-echo " "
+#echo "You can test the Jupyter install by going to \"localhost:8888\" in your web browser"
+#echo "The Default Password is pi"
+#echo " "
 echo "Installing Wireshark"
 $SCRIPTS_FROM/install_wireshark.bash
 echo " "
