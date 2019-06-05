@@ -16,10 +16,9 @@ To install the necessary software and files do the following:
 6. Take a seat and enjoy the installation!
 
 Software packeges to be installed:
-Jupter Notebooks
-Wireshark
-Mpack:
-In Unix, mpack is a program that encodes files into MIME format. A utility called <code>munpack</code> decodes MIME-encapsulated files.
+1. Jupter Notebooks
+2. Wireshark
+3. Mpack: In Unix, mpack is a program that encodes files into MIME format. A utility called <code>munpack</code> decodes MIME-encapsulated files.
 
 $ mumpack file_name.eml
 
