@@ -26,4 +26,5 @@ You can see an example of what type of questions to ask about a research topic:
 On the last day of camp, we will host a closing ceremony where parents, friends, and external partners are invited to learn more about Code@TACC Cybersecurity and watch the students present their projects. Each group will have 5 minutes total to present their topic (slides) and their creative component.
 
 
+
 # Submissions are due Friday, June 17, 2022, by 5:00 p.m.
