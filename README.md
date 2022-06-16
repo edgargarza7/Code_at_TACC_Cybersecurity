@@ -28,4 +28,3 @@ Files to be installed:
 3. Internet Bookmarks
 
 ##Links to Lesson Activities
-* [Networks and DNS] (https://github.com/edgargarza7/Code_at_TACC_Cybersecurity/blob/main/network-dns.md)
