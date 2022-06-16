@@ -17,7 +17,10 @@ Each student group will work to create an internet safety public service announc
 ## Project Format
 The public service announcement (PSA) will have a presentation component (3-5 slides) and a creative component (e.g., TikTok-style video, digital poster, social media post, etc.).
 
-You can see an example of what information to put in the presentation:
+You can see an example of what type of questions to ask about a research topic:
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/45373932/174138500-ba6733b7-a5e8-47b7-a57c-45284be695ee.png">
+
 
 ## Presentation Format
 On the last day of camp, we will host a closing ceremony where parents, friends, and external partners are invited to learn more about Code@TACC Cybersecurity and watch the students present their projects. Each group will have 5 minutes total to present their topic (slides) and their creative component.
