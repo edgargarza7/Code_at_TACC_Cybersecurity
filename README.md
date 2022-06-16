@@ -28,3 +28,4 @@ Files to be installed:
 3. Internet Bookmarks
 
 ##Links to Lesson Activities
+1. [SecureATX Project](https://edgargarza7.github.io/Code_at_TACC_Cybersecurity/SecureATX.html)
