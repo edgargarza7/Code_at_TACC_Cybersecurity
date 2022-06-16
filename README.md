@@ -8,7 +8,7 @@ Prerequisite:
 2. To manually set set time enter the following at a command prompt: sudo date -s 'yyyy-mm-dd hh:mm:ss'
 
 To install the necessary software and files do the following:
-1. Click on this link: https://github.com/edgargarza7/Code_at_TACC_Cybersecurity/blob/master/Raspberry_Pi_Setup_Scripts/run_me.bash
+1. Click on this link: [Raspberry Pi Scripts](https://github.com/edgargarza7/Code_at_TACC_Cybersecurity/blob/master/Raspberry_Pi_Setup_Scripts/run_me.bash)
 2. Right Click on the Raw button and select "Save Link As"
 3. Save the file to your "HOME" directory
 4. Open a terminal and make run_me.bash an executable file with the following command: sudo chgmod +x run_me.bash
