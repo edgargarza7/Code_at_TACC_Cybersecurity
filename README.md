@@ -1,4 +1,4 @@
-# Code_at_TACC_Cybersecurity
+# Code@TACC Cybersecurity
 This repo contains initial files and software for Code@TACC Cybersecurity
 
 ##Links to Lesson Activities
