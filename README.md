@@ -1,6 +1,9 @@
 # Code_at_TACC_Cybersecurity
 This repo contains initial files and software for Code@TACC Cybersecurity
 
+##Links to Lesson Activities
+1. [SecureATX Project](https://edgargarza7.github.io/Code_at_TACC_Cybersecurity/SecureATX.html)
+
 To install this software package do the following:
 
 Prerequisite:
@@ -26,6 +29,3 @@ Files to be installed:
 1. PCAPS for Wireshark Activity
 2. Crypto Python notebooks
 3. Internet Bookmarks
-
-##Links to Lesson Activities
-1. [SecureATX Project](https://edgargarza7.github.io/Code_at_TACC_Cybersecurity/SecureATX.html)
