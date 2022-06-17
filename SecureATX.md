@@ -11,7 +11,8 @@ Each student group will work to create an internet safety public service announc
 | ---- | ---- | ---- | ---- |
 | Password Attacks | Social Media | Phishing | System Hardening |
 | Internet of Things (IoT) | Mobile Apps | Cyberbullying | Video Games | 
-| Online Presence| Privacy |
+| Online Presence| Privacy | Networks | Web Applications | Wireshark |
+| Personal Identifying Information| 
  
 
 ## Project Format
